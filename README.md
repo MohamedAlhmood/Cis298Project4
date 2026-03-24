@@ -6,18 +6,29 @@ This project is a menu-driven Python application that manages a student registra
 
 Features
 Course table: Create, Read, Update
+
 Section table: Create, Read, Update
+
 Student table: Create, Read, Update
+
 Enrollment table: Create, Read, Update, Delete
+
 Student transcript display (using JOIN queries)
 How to Run
+
 Ensure the database file and Python file are in the same folder
+
 Run registration.py
+
 Use the menu to manage records and view transcripts
 Files
+
 registration_project_guide.py – main program
+
 registration_schema.sql – database schema
+
 registration.db – database file with data
+
 screenshots/ – proof of functionality
 
 ## Screenshots
